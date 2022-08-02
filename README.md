@@ -29,4 +29,4 @@
 
 
 ### 엔티티 관계도
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5d6ab7eb-ddca-46e0-94e6-33c4955c82dc/Untitled.png)
+![image](https://user-images.githubusercontent.com/109207727/182314999-77026384-033c-414b-9b98-0bc463f0cdb0.png)

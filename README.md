@@ -50,7 +50,10 @@ Feature -> Dev -> Master 순으로 Pull Request 하였다.
 ## 2. 게시글 조회 및 댓글 조회
 ![image](https://user-images.githubusercontent.com/109207727/182326437-aa094454-ac2b-4652-8149-95a1ada60dfb.png)
 
-### 2.1. 게시글 수정 및 댓글 수정
+### 2.1. 게시글 등록
+![image](https://user-images.githubusercontent.com/109207727/182329470-9e859e2d-1fbc-4de8-9cdc-0260aaffc069.png)
+
+### 2.2. 게시글 수정 및 댓글 수정
 ![image](https://user-images.githubusercontent.com/109207727/182326626-218156c4-ea12-4ca5-9ad6-9454c062d4eb.png)
 ![image](https://user-images.githubusercontent.com/109207727/182326664-fccbccec-f2e6-4def-8513-a6b9f7beb919.png)
 

@@ -35,8 +35,12 @@
 
 
 # GIT TREE
-![image](https://user-images.githubusercontent.com/109207727/182327041-d571d69e-d7bd-4acb-b823-53307e5b0d79.png)
+Master 브랜치와 Dev 브랜치, Feature 브랜치로 나누었다.
 
+Feature -> Dev -> Master 순으로 Pull Request 하였다.
+(중간에 실수가 있어 조금 이상하게 된 부분이 있다.)
+
+![image](https://user-images.githubusercontent.com/109207727/182327041-d571d69e-d7bd-4acb-b823-53307e5b0d79.png)
 
 
 # 소개
